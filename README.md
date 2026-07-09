@@ -1,6 +1,6 @@
 
 <img
-  src = '[https://infoanimales.net/wp-content/uploads/2020/03/white-bengal-tiger-406994_1920.jpg](https://prnt.sc/G-plBj2V8BsD)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png)'
+  src = 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png'
   alt = 'My banner'
   />
 
