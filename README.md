@@ -21,4 +21,10 @@ Trying to survive
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mostakim-Arafat&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-    
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mostakim_arafat_c922256bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostakim_arafat_c922256bc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostakim-arafat-267b0b295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostakim-arafat-267b0b295" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mostakim2005arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostakim2005arafat" height="30" width="40" /></a>
+</p>
