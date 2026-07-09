@@ -17,9 +17,9 @@ I'm a Full-Stack Web Developer specializing in the MERN Stack (MongoDB, Express.
 
   
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mostakim-Arafat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mostakim-Arafat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim-Arafat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mostakim-Arafat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
+![](https://streak-stats.demolab.com/?user=Mostakim-Arafat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakim-Arafat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
   
 
 ## 🏆 GitHub Trophies
